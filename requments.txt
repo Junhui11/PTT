@@ -1,0 +1,4 @@
+keyboard==0.13.2
+PIL==1.1.7
+pywin32==223
+baidu-aip==2.2.5.2
